@@ -1,0 +1,6 @@
+path: /users/charulagnihotri/datasets/coco8
+train: images/train # Path to training images
+val: images/train # Optionally set to the same as train if no validation set
+
+nc: 2 # Number of classes
+names: ["mask", "gloves"] # List of class names
